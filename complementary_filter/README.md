@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A complementary filter is used to combine slow mowing signals from the accelerometer and fast moving signlas from the gyroscope and combine them. The accelerometer data is passed through a low-pass filter, while the gyroscope data is passed through a high-pass filter. The code was structured folllwoing this lecture [Complementary Filter by Control Engineering](https://www.youtube.com/watch?v=xg7zO8wiP1I&list=WL&index=4&t=0s).
+A complementary filter is used to combine slow mowing signals from the accelerometer and fast moving signlas from the gyroscope and combine them. The accelerometer data is passed through a low-pass filter, while the gyroscope data is passed through a high-pass filter. The code was structured following this lecture [Complementary Filter by Control Engineering](https://www.youtube.com/watch?v=xg7zO8wiP1I&list=WL&index=4&t=0s).
 
 ![Complementary Filter](Figures/complementary_filter_graph.png)
 
